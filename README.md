@@ -1,1 +1,1 @@
-Terceira etapa do trabalhoo parcial de programação orientada a objetos.
+Terceira etapa do trabalho parcial de programação orientada a objetos.
